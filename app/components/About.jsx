@@ -12,7 +12,10 @@ var About = React.createClass({
 
 var About = (props) => {
   return (
-    <h2>About components</h2>
+  <div>
+    <h2>About</h2>
+    <p>Welcome to example page!</p>
+  </div>
       )
 };
 
